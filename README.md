@@ -48,4 +48,4 @@ contrasenya: pass
 
 
 ## Estat del projecte
-![maven ![maven workflow](https://github.com/Aleex555/AlexMartinez-GitHubActions/actions/workflows/maven.yml/badge.svg)]
+ ![maven workflow](https://github.com/Aleex555/AlexMartinez-GitHubActions/actions/workflows/maven.yml/badge.svg)
